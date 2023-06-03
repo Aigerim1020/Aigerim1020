@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aigerim1020
 - 👀 I’m interested in DevOps enviroment 
-- 🌱 I’m currently learning Kubernetes and clloud security 
+- 🌱 I’m currently learning Kubernetes and cloud security 
 - 💞️  I’m looking to collaborate on Open Source projects with Docker
 - 📫 How to reach me aamangeldieva20@gmail.com
 
